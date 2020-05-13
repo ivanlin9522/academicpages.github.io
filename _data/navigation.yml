@@ -2,6 +2,13 @@
 main:
   - title: "CV"
     url: /cv/
+  
+  - title: "Publication"
+    url: /publication/
+    
+  - title: "Awards"
+    url: /award/
+        
   - title: "Miscellany"
     url: /miscellany/
 
